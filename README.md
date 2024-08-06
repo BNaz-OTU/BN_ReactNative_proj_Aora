@@ -35,6 +35,15 @@ this app showcases impressive design and functionality, enabling seamless sharin
 
 and many more, including code architecture and reusability 
 
+# 📸 Screenshots
+<img src="https://github.com/user-attachments/assets/f736555a-ee5a-4a77-afa3-47f68bc2e633" data-canonical-src="IMG_1082" width="300" /> 
+<img src="https://github.com/user-attachments/assets/b042d8db-5b76-4445-8bb3-9a19bb7dfcf9" data-canonical-src="IMG_1083" width="300" /> 
+<img src="https://github.com/user-attachments/assets/68f37a58-80c5-41c2-b1f4-6718cdf6d6a1" data-canonical-src="IMG_1084" width="300" /> <br>
+<img src="https://github.com/user-attachments/assets/06d063bf-f39a-45e9-950f-95dccb7f3056" data-canonical-src="IMG_1085" width="300" />
+<img src="https://github.com/user-attachments/assets/f42a3ab4-c03e-4c7c-a989-fb44696781bf" data-canonical-src="IMG_1086" width="300" />
+<img src="https://github.com/user-attachments/assets/e8ce5970-e7f7-4202-ac21-4cc5ca9f7694" data-canonical-src="IMG_1087" width="300" />
+
+
 # 👍🏽 Launching the App
 
 Follow these steps to set up the project locally on your machine.
